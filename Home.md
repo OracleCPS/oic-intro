@@ -4,8 +4,8 @@
 
 > Updated: September 25th, 2018
 
-## Journey To The Cloud: Oracle Cloud Platform for Integration - Integration Cloud Hands On Lab
-A hands-on workshop to dive into development on Oracle Integration Cloud
+## Journey To The Cloud: Integration Cloud Hands On Lab
+A hands-on workshop to get starting doing development with Oracle Integration Cloud creating integrations.
 
 ## Overview
 
