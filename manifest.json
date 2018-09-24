@@ -1,0 +1,27 @@
+{
+    "workshop": {
+        "title": "Journey To The Cloud: Oracle Self Service Integration Hands-on Workshop",
+        "description": "A hands-on event to explore Oracle’s Cloud Platform for Integration Self Service Integration capabilities",
+        "theme": "ttc",
+        "interactive": "https://launch.oracle.com/?ttcicsdeveloper",
+        "labs": [{
+                "number": "1",
+                "filename": "Home.md",
+                "title": "Home",
+                "description": "Welcome to the Oracle Integration Cloud workshop"
+            },
+            {
+                "number": "10",
+                "filename": "StudentGuide.md",
+                "title": "Prerequisites",
+                "description": "Workshop guidance and prerequisites"
+            },
+            {
+                "number": "100",
+                "filename": "lab01.md",
+                "title": "Lab 01: Intro to OIC",
+                "description": "In this Lab ."
+            }
+        ]
+    }
+}
