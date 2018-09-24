@@ -1,4 +1,4 @@
-# Oracle Cloud Platform for Integration - Introduction to Oracle Integration Cloud Workshop
+# Introduction to Oracle Integration Cloud Workshop
 
 ![](images/j2c-logo.png)
 
