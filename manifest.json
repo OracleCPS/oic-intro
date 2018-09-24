@@ -1,7 +1,7 @@
 {
     "workshop": {
-        "title": "Journey To The Cloud: Oracle Self Service Integration Hands-on Workshop",
-        "description": "A hands-on event to explore Oracle’s Cloud Platform for Integration Self Service Integration capabilities",
+        "title": "Journey To The Cloud: Oracle Integration Cloud Hands-on Workshop",
+        "description": "A hands-on event to explore Oracle’s Integration Cloud capabilities",
         "theme": "ttc",
         "interactive": "https://launch.oracle.com/?ttcicsdeveloper",
         "labs": [{
