@@ -11,16 +11,34 @@
                 "description": "Welcome to the Oracle Integration Cloud workshop"
             },
             {
-                "number": "10",
-                "filename": "StudentGuide.md",
-                "title": "Prerequisites",
-                "description": "Workshop guidance and prerequisites"
+                "number": "100",
+                "filename": "tutorial100.md",
+                "title": "Tutorial 100: Getting Started",
+                "description": "Getting Started"
             },
             {
-                "number": "100",
-                "filename": "lab01.md",
-                "title": "Lab 01: Intro to OIC",
-                "description": "In this Lab ."
+                "number": "101",
+                "filename": "tutorial101.md",
+                "title": "Tutorial 101: Using the REST Adapter",
+                "description": "Tutorial 101: Using the REST Adapter"
+            },
+            {
+                "number": "102",
+                "filename": "tutorial102.md",
+                "title": "Tutorial 102: Using the File Adapter",
+                "description": "Tutorial 102: Using the File Adapter"
+            },
+            {
+                "number": "103",
+                "filename": "tutorial103.md",
+                "title": "Tutorial 103: REST to File Integration",
+                "description": "Getting Started"
+            },
+            {
+                "number": "104",
+                "filename": "tutorial104.md",
+                "title": "Tutorial 104: Monitoring",
+                "description": "Tutorial 104: Monitoring"
             }
         ]
     }
