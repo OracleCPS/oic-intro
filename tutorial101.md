@@ -14,11 +14,11 @@ From the designer menu, choose **Connections**:
 
 Click on the **Create** button to start creating a new connection:
 
-![2](./images/tutorial101/2)
+![](./images/tutorial101/2)
 
 Type **REST** in the search box to search for the REST adapter:
 
-![3](./images/tutorial101/3)
+![](./images/tutorial101/3)
 
 Select the **REST** adapter.
 
@@ -26,7 +26,7 @@ Name the connection: **`Local REST <your initials>`** as shown in the picture be
 
 Set the Role to: **Trigger**
 
-![4](./images/tutorial101/4)
+![](./images/tutorial101/4)
 
 Click the **Create** button
 
@@ -34,14 +34,14 @@ The connection is successfully created. We wil use the default security policy: 
 
 Click the **Test** button to test the connection. 
 
-![5](./images/tutorial101/5)
+![](./images/tutorial101/5)
 
 The percentage completion indicator should change to 100%. Click on the **Save** button.
 
-![6](images/tutorial101/6)
+![](images/tutorial101/6)
 
 Then click the **Close** button.
 
-![7](images/tutorial101/7)
+![](images/tutorial101/7)
 
 The connection is now ready to use.
