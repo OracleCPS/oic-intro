@@ -9,7 +9,7 @@ This tutorial explains how to use the REST adapter to allow a user to make a RES
 
 From the designer menu, choose **Connections**:
 
-![Screen Shot 2018-03-05 at 12.13.12 AM](./images/tutorial101/Screen Shot 2018-03-05 at 12.13.12 AM.png)
+![Screen Shot 2018-03-05 at 12.13.12 AM](/images/tutorial101/Screen Shot 2018-03-05 at 12.13.12 AM.png)
 
 Click on the **Create** button to start creating a new connection:
 
